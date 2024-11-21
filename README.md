@@ -23,8 +23,8 @@ Step 5: Display the output.
 
 # PROGRAM:
 ```
-Developed by: Paul Andrew D
-Register number: 212221230075
+Developed by: Jeeva MS
+Register number: 212221230040
 ```
 ```
 pip install dash plotly pandas
